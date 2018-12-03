@@ -16,7 +16,7 @@ public class Sample
         {
             Console.WriteLine(elemList[i].InnerXml);
         }
-        Console.ReadKey();
+        Console.Read();
 
     }
 }
